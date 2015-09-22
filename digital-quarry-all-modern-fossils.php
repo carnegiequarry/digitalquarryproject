@@ -9,9 +9,9 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.carnegiequarry.com/modern-quarry/jquery.leanModal.min.js"></script>
 <script type="text/javascript">
-			$(function() {
-    			$('a[rel*=leanModal]').leanModal({ top : 200, closeButton: ".modal_close" });		
-			});
+	$(function() {
+    		$('a[rel*=leanModal]').leanModal({ top : 200, closeButton: ".modal_close" });		
+	});
 </script>
 
 

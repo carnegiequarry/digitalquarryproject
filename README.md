@@ -5,5 +5,5 @@ The Digital Quarry Project is an effort to bring the fossils of Dinosaur Nationa
 We need to make one modal do the work of five thousand.
 
 <strong>Acknowledgements</strong><br>
-LeanModal
+LeanModal<br>
 W3 Schools

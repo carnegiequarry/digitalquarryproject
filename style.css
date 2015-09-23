@@ -1,0 +1,192 @@
+body {
+	background-color: #d9c382;
+}
+
+p {
+	color: #808080;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+}
+
+p a {
+	font-weight: 300;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+p a:hover {
+	font-weight: 300;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+h3 {
+	color: #808080;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	font-size: 130%;
+	padding-bottom: 0px;
+}
+
+
+
+h4 {
+	color: #808080;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	font-size: 100%;
+	padding-top: 0px;
+	margin-top: 0px;
+}
+
+h4 a {
+	font-weight: 400;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 100%;
+
+}
+
+button {
+	background: #808080;
+	border: 2px solid #808080;
+	border-radius: 4px;
+	text-decoration: none;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 10px;
+	padding-right: 10px;
+	float: left;
+	margin-right: 30px;
+	color: #ffffff;
+}
+
+button a {
+	color: #ffffff;
+	text-decoration:none;
+}
+
+button:hover {
+	background: #ffcc00;
+	border: 2px solid #ffcc00;
+
+}
+
+.list-group {
+	color: #808080;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+}
+
+
+#intro {
+	position: fixed;
+	background-color: none;
+	top: 0;
+	left: 0;
+	z-index: 2;
+	width: auto;
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+#dinosaur-buttons-1 {
+	display: inline-block;
+	float: left;
+}
+
+#button-text {
+	font-weight: 400;
+	color: #FFFFFF;
+	padding-top: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+}
+
+
+
+#stegosaurus,
+#dryosaurus,
+#diplodocus,
+#camptosaurus,
+#camarasaurus,
+#apatosaurus,
+#allosaurus {
+	background: #808080;
+	border: 2px solid #FFFFFF;
+	border-radius: 4px;
+	text-decoration: none;
+}
+
+
+#bones {
+	width: 10000px;
+	height-overflow: scroll;
+	width-overflow: scroll;
+	position: relative;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	background-color: #d9c382;
+	background-image: url(http://carnegiequarry.com/modern-quarry/concrete-wall.png);
+	fill: #ffffff;
+}
+
+.fossil {
+	cursor: pointer;
+}
+
+.anatomy {
+	height: 120px;
+}
+
+
+.attribution {
+	width: 100%;
+	height: 130px;
+	padding: 30px 15px;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+
+/* modals */
+
+#lean_overlay {
+    position: fixed;
+    z-index:100;
+    top: 0px;
+    left: 0px;
+    height:100%;
+    width:100%;
+    background: #000;
+    display: none;
+}
+
+#modal {
+	display: none; 
+	position: fixed; 
+	opacity: 1; 
+	z-index: 11000; 
+	left: 50%; 
+	margin-left: -330px; 
+	top: 200px;
+	height: auto;
+	width: auto;
+	background-color: #ffffff;
+	padding: 15px;
+	border: 2px solid #ffffff;
+	border-radius: 4px;
+}
+
+#modalcontent {
+	color: #808080;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+}

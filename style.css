@@ -74,6 +74,13 @@ button:hover {
 
 }
 
+#anchor {
+    position: relative;
+    left: 5954px;
+    font-size: 1px;
+    color: #d9c382;
+}
+
 .list-group {
 	color: #808080;
 	font-family: 'Oswald', sans-serif;
@@ -139,8 +146,16 @@ button:hover {
 	fill: #ffffff;
 }
 
-.fossil {
-	cursor: pointer;
+path {
+	fill: #ffffff;
+	stroke: #d9c382;
+	cursor: help;
+}
+
+path:hover {
+	fill: #FCF5E0;
+	stroke: #d9c382;
+	cursor: help;
 }
 
 .anatomy {
@@ -169,7 +184,7 @@ button:hover {
     display: none;
 }
 
-#modal {
+.modal {
 	display: none; 
 	position: fixed; 
 	opacity: 1; 

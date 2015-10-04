@@ -3,7 +3,7 @@ The Digital Quarry Project is an effort to bring the fossils of Dinosaur Nationa
 
 <strong>What to do</strong><br>
 <p>First, check out the website. The main website is here: http://www.carnegiequarry.com/
-We use WordPress and have volunteers at Dinosaur National Monument working on content.</p>
+We use WordPress and have volunteers at Dinosaur National Monument working on content. Poke around and you'll learn a bit about Dinosaur National Monument and the fossil quarry it was founded for.</p>
 
 <p>The code-y fun part of the project is here: http://www.carnegiequarry.com/modern-quarry/digital-quarry-all-modern-fossils.php#anchor
 This is the Digital Quarry, a tool for researchers and the public to explore the fossils of Carnegie Quarry. </p>

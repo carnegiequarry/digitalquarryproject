@@ -12,6 +12,13 @@ This is the Digital Quarry, a tool for researchers and the public to explore the
 
 <p>Our goal is to eventually include all of those 5000 fossils in a rich, interactive online tool that is about three times larger on the page than the current Digital Quarry, and allows users to toggle fossils by taxa, current location, maybe even bone type and year exacavated. The ability to search any of these fields and have bones that match highlight would also be very useful. We're open to toher ideas and suggestions of how to make this more engaging, useful and fun.</p>
 <br>
-<strong>Acknowledgements</strong><br>
+<strong>The Digital Quarry Project is made possible by</strong><br>
+Dinosaur National Monument<br>
+The National Park Service (Part of the United States Department of Interior)<br>
+The Geological Society of America<br>
+Mosaics in Science<br>
+The Geocorps America/Geoscientists-in-the-Parks Program<br>
+
+<strong>Code Acknowledgements</strong>
 LeanModal<br>
-W3 Schools
+W3 Schools<br>

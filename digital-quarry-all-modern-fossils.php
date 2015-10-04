@@ -10,12 +10,16 @@
 <script type="text/javascript" src="http://www.carnegiequarry.com/modern-quarry/jquery.leanModal.min.js"></script>
 <script type="text/javascript">
 	$(function() {
-    		$('a[rel*=leanModal]').leanModal({ top : 200, closeButton: ".modal_close" });		
+		$('a[rel*=leanModal]').leanModal({ top : 200, closeButton: ".modal_close" });		
 	});
 </script>
 
-
 </head>
+
+<!-- anchor -->
+<div id="anchor">
+	<a href="#anchor">anchor</a>
+</div>
 
 <!-- intro -->
 <div id="intro">	
@@ -32,7 +36,6 @@
 	<?php include 'http://carnegiequarry.com/modern-quarry/modern-quarry.php' ?>
 </div> 
 
-<!-- modal -->
+<!-- modals -->
 <?php include 'http://carnegiequarry.com/modern-quarry/modal.php' ?>
-
 

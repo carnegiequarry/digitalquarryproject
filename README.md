@@ -17,7 +17,7 @@ This is an interactive tool for researchers and the public to explore the fossil
 <strong>Setting up the Digital Quarry</strong><br>
 <p>Get the following files:</p>
 <ul>
-<li> digital-quarry-all-modern-fossils.php <br>(this is more or less the index)
+<li> digital-quarry-all-modern-fossils.php <br>(this is the index file)
 <li> modern-quarry.php <br>(includes all the SVG fossil illustrations)
 <li> modal.php <br>(modals for each fossil--these are what open when you click on a bone illustration)
 <li> modernQuarryFossilData <br>(the data for all the fossils that populates the modal fields)

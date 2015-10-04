@@ -19,6 +19,6 @@ The Geological Society of America<br>
 Mosaics in Science<br>
 The Geocorps America/Geoscientists-in-the-Parks Program<br>
 
-<strong>Code Acknowledgements</strong>
+<strong>Code Acknowledgements</strong><br>
 LeanModal<br>
 W3 Schools<br>

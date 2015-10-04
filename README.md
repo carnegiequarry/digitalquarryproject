@@ -14,10 +14,9 @@ This is the Digital Quarry, a tool for researchers and the public to explore the
 
 <p>We're open to other ideas and suggestions of how to make the Digital Quarry more engaging, useful and fun.</p>
 <br>
-<br>
 <strong>Update Process</strong>
 <p>The Digital Quarry is updated as needed by a Dinosaur National Monument volunteer. Changes submitted here are reviewed and implemented weekly.</p>
-<br><br>
+<br>
 <strong>The Digital Quarry Project is made possible by</strong><br>
 Dinosaur National Monument<br>
 The National Park Service (Part of the United States Department of Interior)<br>

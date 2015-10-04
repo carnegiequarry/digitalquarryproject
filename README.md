@@ -14,7 +14,7 @@ This is the Digital Quarry, a tool for researchers and the public to explore the
 
 <p>We're open to other ideas and suggestions of how to make the Digital Quarry more engaging, useful and fun.</p>
 
-<strong>Update Process</strong>
+<strong>Our Update Process</strong>
 <p>The Digital Quarry is updated as needed by a Dinosaur National Monument volunteer. Changes submitted here are reviewed and implemented weekly.</p>
 
 <strong>The Digital Quarry Project is made possible by</strong><br>

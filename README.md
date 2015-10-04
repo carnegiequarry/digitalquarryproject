@@ -22,6 +22,7 @@ This is an interactive tool for researchers and the public to explore the fossil
 <li> modal.php <br>(modals for each fossil--these are what open when you click on a bone illustration)
 <li> modernQuarryFossilData <br>(the data for all the fossils that populates the modal fields)
 <li> style.css <br>(the stylesheet)
+</ul>
 
 <p>Create a database table for the data. We use phpMyadmin, which involves creating a table and columns, then uploading the csv file of the spreadsheet.</p>
 

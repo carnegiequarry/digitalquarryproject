@@ -1,7 +1,7 @@
 # digitalquarryproject
 <p>The Digital Quarry Project is an effort to bring the fossils of Dinosaur National Monument's Carnegie Quarry online for researchers and the public.</p>
 
-<h2>Background</h2><br>
+<h2>Background</h2>
 <p>First, check out <a href="http://www.carnegiequarry.com/">the main website</a>. 
 We use WordPress and have volunteers at Dinosaur National Monument working on content. Poke around and you'll learn a bit about Dinosaur National Monument and the fossil quarry it was founded for.</p>
 
@@ -14,7 +14,7 @@ This is an interactive tool for researchers and the public to explore the fossil
 
 <p>We're open to other ideas and suggestions of how to make the Digital Quarry more engaging, useful and fun.</p>
 
-<strong>Setting up the Digital Quarry</strong><br>
+<h2>Setting up the Digital Quarry</h2>
 <p>Get the following files:</p>
 <ul>
 <li> digital-quarry-all-modern-fossils.php <br>(this is the index file)
@@ -28,16 +28,16 @@ This is an interactive tool for researchers and the public to explore the fossil
 
 <p>Once your table is created, you will have to replace the "xxxxxxxxxxxx" fields in modal.php with the login info for your database.</p>
 
-<strong>Our Update Process</strong>
+<h2>Our Update Process</h2>
 <p>The Digital Quarry is updated as needed by a Dinosaur National Monument volunteer. Changes submitted here are reviewed and implemented weekly.</p>
 
-<strong>The Digital Quarry Project is made possible by</strong><br>
+<h2>The Digital Quarry Project is made possible by</h2>
 Dinosaur National Monument<br>
 The National Park Service (Part of the United States Department of Interior)<br>
 The Geological Society of America<br>
 Mosaics in Science<br>
 The Geocorps America/Geoscientists-in-the-Parks Program<br>
 
-<strong>Code Acknowledgements</strong><br>
+<h2>Code Acknowledgements</h2>
 LeanModal<br>
 W3 Schools<br>

@@ -1,5 +1,5 @@
 # digitalquarryproject
-The Digital Quarry Project is an effort to bring the fossils of Dinosaur National Monument's Carnegie Quarry online for researchers and the public.
+<p>The Digital Quarry Project is an effort to bring the fossils of Dinosaur National Monument's Carnegie Quarry online for researchers and the public.</p>
 
 <strong>What to do</strong><br>
 <p>First, check out <a href="http://www.carnegiequarry.com/">the main website</a>. 
@@ -13,10 +13,10 @@ This is the Digital Quarry, a tool for researchers and the public to explore the
 <p>Our goal is to eventually include all of those 5000 fossils in a rich, interactive online tool that is about three times larger on the page than the current Digital Quarry, and allows users to toggle fossils by taxa, current location, maybe even bone type and year exacavated. The ability to search any of these fields and highlight bones that match would also be very useful. </p>
 
 <p>We're open to other ideas and suggestions of how to make the Digital Quarry more engaging, useful and fun.</p>
-<br>
+
 <strong>Update Process</strong>
 <p>The Digital Quarry is updated as needed by a Dinosaur National Monument volunteer. Changes submitted here are reviewed and implemented weekly.</p>
-<br>
+
 <strong>The Digital Quarry Project is made possible by</strong><br>
 Dinosaur National Monument<br>
 The National Park Service (Part of the United States Department of Interior)<br>

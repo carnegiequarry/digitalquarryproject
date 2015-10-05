@@ -15,7 +15,7 @@ This is an interactive tool for researchers and the public to explore the fossil
 <p>We're open to other ideas and suggestions of how to make the Digital Quarry more engaging, useful and fun.</p>
 
 <h2>Setting up the Digital Quarry on your own system</h2>
-<p>Get the following files:</p>
+<p>Add the following files to a folder called "modern-quarry" (this distinguishes it from the previous "demo quarry" and the future "full quarry" that will include all of the historical fossils that were removed):</p>
 <ul>
 <li> digital-quarry-all-modern-fossils.php <br>(this is the index file)
 <li> modern-quarry.php <br>(includes all the SVG fossil illustrations)

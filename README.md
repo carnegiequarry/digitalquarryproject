@@ -39,6 +39,7 @@ The National Park Service (Part of the United States Department of Interior)<br>
 The Geological Society of America<br>
 Mosaics in Science<br>
 The Geocorps America/Geoscientists-in-the-Parks Program<br>
+The Intermountain Natural History Association<br>
 
 <h2>Code Acknowledgements</h2>
 LeanModal<br>

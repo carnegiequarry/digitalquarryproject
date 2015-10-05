@@ -20,11 +20,11 @@ This is an interactive tool for researchers and the public to explore the fossil
 <li> digital-quarry-all-modern-fossils.php <br>(this is the index file)
 <li> modern-quarry.php <br>(includes all the SVG fossil illustrations)
 <li> modal.php <br>(modals for each fossil--these are what open when you click on a bone illustration)
-<li> modernQuarryFossilData <br>(the data for all the fossils that populates the modal fields)
+<li> modernQuarryFossilData <br>(the data for all the fossils that populates the modal fields. You may prefer the <a href="https://docs.google.com/spreadsheets/d/1MFP6-KFfPjgZyjHZhh4ChBJgrdSiMtSN94tORUp-eug/edit?usp=sharing">original spreadsheet on Google Drive</a>.)
 <li> style.css <br>(the stylesheet)
 </ul>
 
-<p>Create a database table for the data. We use phpMyadmin, which involves creating a table and columns, then uploading the csv file of the spreadsheet.</p>
+<p>Create a database table for the data. In phpMyAdmin, create a table named "modernQuarryFossilData" and columns to match each column in the spreadsheet. Then import the spreadsheet file into the table. We've had the best luck with using a CSV file format for the spreadsheet, which you can select from the "File > Download as" menu in Google Drive.</p>
 
 <p>Once your table is created, you will have to replace the "xxxxxxxxxxxx" fields in modal.php with the login info for your database.</p>
 

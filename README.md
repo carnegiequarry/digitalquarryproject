@@ -12,6 +12,8 @@ This is an interactive tool for researchers and the public to explore the fossil
 
 <p>Our goal is to eventually include all of those 5000 fossils in a rich, interactive online tool that is about three times larger on the page than the current Digital Quarry, and allows users to toggle fossils by taxa, current location, maybe even bone type and year exacavated. The ability to search any of these fields and highlight bones that match would also be very useful. </p>
 
+Check out the <a href="https://github.com/carnegiequarry/digitalquarryproject/issues">issues labeled "help wanted"</a> for mini-projects you can do now that will make a huge difference.
+
 <p>We're open to other ideas and suggestions of how to make the Digital Quarry more engaging, useful and fun.</p>
 
 <h2>Setting up the Digital Quarry on your own system</h2>

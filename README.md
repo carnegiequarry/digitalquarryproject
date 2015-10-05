@@ -14,7 +14,7 @@ This is an interactive tool for researchers and the public to explore the fossil
 
 <p>We're open to other ideas and suggestions of how to make the Digital Quarry more engaging, useful and fun.</p>
 
-<h2>Setting up the Digital Quarry</h2>
+<h2>Setting up the Digital Quarry on your own system</h2>
 <p>Get the following files:</p>
 <ul>
 <li> digital-quarry-all-modern-fossils.php <br>(this is the index file)

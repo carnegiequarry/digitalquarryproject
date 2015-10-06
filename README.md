@@ -2,13 +2,13 @@
 <p>The Digital Quarry Project is an effort to bring the fossils of Dinosaur National Monument's Carnegie Quarry online for researchers and the public.</p>
 
 <h2>Background</h2>
-<p>If you're curious, check out <a href="http://www.carnegiequarry.com/">the main website</a>. 
-We use WordPress and have volunteers at Dinosaur National Monument working on content. Poke around and you'll learn a bit about Dinosaur National Monument and the fossil quarry it was founded for.</p>
 
-<p>The code-y fun part of the project is the <a href="http://www.carnegiequarry.com/modern-quarry/digital-quarry-all-modern-fossils.php#anchor">Digital Quarry</a>. 
-This is an interactive tool for researchers and the public to explore the fossils of Carnegie Quarry. The fossil illustrations represent the fossils that are found in the quarry today, in the exact positions where they were deposited in a riverbed 150 million years ago.</p>
+<p>First, visit the <a href="http://www.carnegiequarry.com/modern-quarry/digital-quarry-all-modern-fossils.php#anchor">Digital Quarry</a> and play around with it to see what it does. This is an interactive tool for researchers and the public to explore the fossils of Carnegie Quarry. The fossil illustrations represent the fossils that are found in the quarry today, in the exact positions where they were deposited in a riverbed 150 million years ago.</p>
 
-<p>Right now it has very basic functionality and only includes 551 of the fossils that are currently visible to visitors at the Quarry Exhibit Hall in Utah. However, roughly 5000 fossils have been documented from Carnegie Quarry--most of them were excavated and sent to museums like the Smithsonian, the AMNH and of course the Carnegie Museum. </p>
+<p>(If you're curious, check out <a href="http://www.carnegiequarry.com/">the main website</a>. 
+We use WordPress and have volunteers at Dinosaur National Monument working on content. Poke around and you'll learn a bit about Dinosaur National Monument and the fossil quarry it was founded for.)</p>
+
+<p>Right now the Digital Quarry has very basic functionality and only includes 551 of the fossils that are currently visible to visitors at the Quarry Exhibit Hall in Utah. However, roughly 5000 fossils have been documented from Carnegie Quarry--most of them were excavated and sent to museums like the Smithsonian, the AMNH and of course the Carnegie Museum. </p>
 
 <p>Our goal is to eventually include all of those 5000 fossils in a rich, interactive online tool that is about three times larger on the page than the current Digital Quarry, and allows users to toggle fossils by taxa, current location, maybe even bone type and year exacavated. The ability to search any of these fields and highlight bones that match would also be very useful. </p>
 

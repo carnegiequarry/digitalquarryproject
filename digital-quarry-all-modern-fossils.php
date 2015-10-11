@@ -33,9 +33,9 @@
 
 <!-- Fossils SVG -->
 <div id="bones">
-	<?php include 'http://carnegiequarry.com/modern-quarry/modern-quarry.php' ?>
+	<?php include 'modern-quarry.php' ?>
 </div> 
 
 <!-- modals -->
-<?php include 'http://carnegiequarry.com/modern-quarry/modal.php' ?>
+<?php include 'modal.php' ?>
 

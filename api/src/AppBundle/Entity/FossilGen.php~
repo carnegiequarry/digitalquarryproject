@@ -1,0 +1,221 @@
+<?php
+
+namespace AppBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * FossilGen
+ *
+ * @ORM\Table()
+ * @ORM\Entity
+ */
+class FossilGen
+{
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="AUTO")
+     */
+    private $id;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="catalogNumber", type="string", length=11)
+     */
+    private $catalogNumber;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="image", type="string", length=70)
+     */
+    private $image;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="cliffNumber", type="string", length=17)
+     */
+    private $cliffNumber;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="taxon", type="string", length=24)
+     */
+    private $taxon;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="bone", type="string", length=55)
+     */
+    private $bone;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="age", type="string", length=8)
+     */
+    private $age;
+
+
+    /**
+     * Get id
+     *
+     * @return integer
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set catalogNumber
+     *
+     * @param string $catalogNumber
+     *
+     * @return FossilGen
+     */
+    public function setCatalogNumber($catalogNumber)
+    {
+        $this->catalogNumber = $catalogNumber;
+
+        return $this;
+    }
+
+    /**
+     * Get catalogNumber
+     *
+     * @return string
+     */
+    public function getCatalogNumber()
+    {
+        return $this->catalogNumber;
+    }
+
+    /**
+     * Set image
+     *
+     * @param string $image
+     *
+     * @return FossilGen
+     */
+    public function setImage($image)
+    {
+        $this->image = $image;
+
+        return $this;
+    }
+
+    /**
+     * Get image
+     *
+     * @return string
+     */
+    public function getImage()
+    {
+        return $this->image;
+    }
+
+    /**
+     * Set cliffNumber
+     *
+     * @param string $cliffNumber
+     *
+     * @return FossilGen
+     */
+    public function setCliffNumber($cliffNumber)
+    {
+        $this->cliffNumber = $cliffNumber;
+
+        return $this;
+    }
+
+    /**
+     * Get cliffNumber
+     *
+     * @return string
+     */
+    public function getCliffNumber()
+    {
+        return $this->cliffNumber;
+    }
+
+    /**
+     * Set taxon
+     *
+     * @param string $taxon
+     *
+     * @return FossilGen
+     */
+    public function setTaxon($taxon)
+    {
+        $this->taxon = $taxon;
+
+        return $this;
+    }
+
+    /**
+     * Get taxon
+     *
+     * @return string
+     */
+    public function getTaxon()
+    {
+        return $this->taxon;
+    }
+
+    /**
+     * Set bone
+     *
+     * @param string $bone
+     *
+     * @return FossilGen
+     */
+    public function setBone($bone)
+    {
+        $this->bone = $bone;
+
+        return $this;
+    }
+
+    /**
+     * Get bone
+     *
+     * @return string
+     */
+    public function getBone()
+    {
+        return $this->bone;
+    }
+
+    /**
+     * Set age
+     *
+     * @param string $age
+     *
+     * @return FossilGen
+     */
+    public function setAge($age)
+    {
+        $this->age = $age;
+
+        return $this;
+    }
+
+    /**
+     * Get age
+     *
+     * @return string
+     */
+    public function getAge()
+    {
+        return $this->age;
+    }
+}
+

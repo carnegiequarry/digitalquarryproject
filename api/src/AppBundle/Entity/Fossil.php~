@@ -1,0 +1,56 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: tneier
+ * Date: 10/11/15
+ * Time: 2:26 PM
+ */
+
+namespace AppBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Fossil
+ *
+ * @ORM\Table(name="modernQuarryFossilData")
+ * @ORM\Entity
+ */
+class Fossil
+{
+  /**
+   * @var string
+   *
+   * @ORM\Column(name="catalogNumber", type="string", length=11)
+   */
+  protected $catalogNumber;
+
+
+  /**
+   * @var string
+   *
+   * @ORM\Column(name="image", type="string", length=70)
+   */
+  protected $image;
+
+  /**
+   * @ORM\Column(name="cliffNumber", type="string", length=17)
+   */
+  protected $cliffNumber;
+
+  /**
+   * @ORM\Column(name="taxon", type="string", length=24)
+   */
+  protected $taxon;
+
+  /**
+   * @ORM\Column(name="bone", type="string", length=55)
+   */
+  protected $bone;
+
+  /**
+   * @ORM\Column(name="age", type="string", length=8)
+   */
+  protected $age;
+
+}

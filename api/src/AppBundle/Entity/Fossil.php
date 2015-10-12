@@ -22,6 +22,7 @@ class Fossil
    * @var string
    *
    * @ORM\Column(name="catalogNumber", type="string", length=11)
+   * @ORM\Id
    */
   protected $catalogNumber;
 

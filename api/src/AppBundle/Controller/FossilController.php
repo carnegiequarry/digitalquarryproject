@@ -10,10 +10,10 @@ use FOS\RestBundle\Controller\FOSRestController;
 class FossilController extends FOSRestController
 {
   /**
-   * @Route("/fossil", name="fossilDetail")
+   * @Route("/fossils", name="fossilDetail")
    */
 
-  public function showFossil($catalogNumber)
+  public function getFossilAction($catalogNumber)
   {
     $fossil = $this->getDoctrine()
       ->getRepository('AppBundle:Fossil')
@@ -26,10 +26,10 @@ class FossilController extends FOSRestController
     }
 
 
-    $view = $this->view($products, 200)
+    $view = $this->view($fossil, 200)
       ->setTemplate("MyBundle:Category:show.html.twig")
       ->setTemplateVar('fossil')
-      ->setTemplateData($templateData)
+//      ->setTemplateData($templateData)
     ;
 
     return $this->handleView($view);

@@ -1,3 +1,7 @@
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation
+
+fossils:
+    type:     rest
+    resource: \AppBundle\Controller\FossilController
